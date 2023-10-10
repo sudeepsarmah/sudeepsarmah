@@ -36,6 +36,7 @@
   </div>
   <div>
 
+
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudeepsarmah&theme=dark&background=000000)](https://git.io/streak-stats)
   </div>
@@ -43,5 +44,13 @@
 
 [![An image of @sudeepsarmah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepsarmah)](https://holopin.io/@sudeepsarmah)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepsarmah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
