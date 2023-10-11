@@ -29,18 +29,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudeepsarmah&theme=onedark)](https://github.com/sudeepsarmah/github-profile-trophy)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-     
-  ![Sudeepta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepsarmah&show_icons=true&theme=transparent)
-  </div>
-  <div>
+ <!--![Sudeepta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepsarmah&show_icons=true&theme=transparent)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudeepsarmah&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
+### :fire: My Stats :
+<p align="center">
+  
+  
 
-  ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudeepsarmah&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
-</div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudeepsarmah&show_icons=true&theme=transparent" />
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=sudeepsarmah&theme=dark&background=000000" />
+</p>
 
 [![An image of @sudeepsarmah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepsarmah)](https://holopin.io/@sudeepsarmah)
 
