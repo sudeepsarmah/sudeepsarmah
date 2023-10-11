@@ -45,7 +45,7 @@
 [![An image of @sudeepsarmah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepsarmah)](https://holopin.io/@sudeepsarmah)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepsarmah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepsarmah&layout=compact&theme=vision-friendly-dark)](https://github.com/sudeepsarmah/github-readme-stats)
 
 
 
