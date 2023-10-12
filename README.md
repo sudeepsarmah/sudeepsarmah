@@ -27,7 +27,16 @@
 ---
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudeepsarmah&theme=onedark)](https://github.com/sudeepsarmah/github-profile-trophy)
+### My Trophies:
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sudeepsarmah&theme=darkhub&row=2&column=7" alt="sudeepsarmah" />
+  </a>
+</div>
+
+
+
 
  <!--![Sudeepta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepsarmah&show_icons=true&theme=transparent)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudeepsarmah&theme=dark&background=000000)](https://git.io/streak-stats) -->
